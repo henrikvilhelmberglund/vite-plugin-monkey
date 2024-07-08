@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-monkey",
+  "name": "@henrikvilhelmberglund/vite-plugin-monkey",
   "version": "4.0.4",
   "description": "A vite plugin server and build your.user.js for userscript engine like Tampermonkey and Violentmonkey and Greasemonkey",
   "main": "dist/node/index.mjs",
@@ -50,17 +50,17 @@
     "greasyfork",
     "typescript"
   ],
-  "author": "lisonge",
+  "author": "lisonge, Henrik Berglund",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lisonge/vite-plugin-monkey.git",
+    "url": "git+https://github.com/henrikvilhelmberglund/vite-plugin-monkey.git",
     "directory": "packages/vite-plugin-monkey"
   },
   "bugs": {
-    "url": "https://github.com/lisonge/vite-plugin-monkey/issues"
+    "url": "https://github.com/henrikvilhelmberglund/vite-plugin-monkey/issues"
   },
-  "homepage": "https://github.com/lisonge/vite-plugin-monkey#readme",
+  "homepage": "https://github.com/henrikvilhelmberglund/vite-plugin-monkey#readme",
   "dependencies": {
     "acorn-walk": "^8.3.1",
     "cross-spawn": "^7.0.3",
